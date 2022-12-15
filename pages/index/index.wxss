@@ -1,0 +1,42 @@
+.container{
+ padding: 10rpx;
+}
+.header{
+    background-color: #3d7ef9;
+    color:white;
+    padding: 15rpx 30rpx;
+    border-radius: 20rpx;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+}
+.one text{
+   font-size:26rpx ; 
+   height: 40rpx;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+.two text{
+    font-size:40rpx ;
+    height: 40;
+}
+.three text{
+    font-size: 40rpx;
+}
+
+/*body*/
+.body-wrapper{
+    margin-top: 40rpx;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.date-logo image{
+    width: 200rpx;
+    height: 200rpx;
+}

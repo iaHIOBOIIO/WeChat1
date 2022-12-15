@@ -1,0 +1,44 @@
+<view class="container">
+<view class= "header">
+<view class= "one">
+<text>空气质量：优</text>
+<text>杭州市</text>
+</view>
+<view class= "two">
+<text>55</text>
+<text>阴天</text>
+</view>
+<view class= "three">
+<text>空气质量良好，可以出去玩</text>
+
+</view>
+</view>
+
+<view clas="body">
+<view class="body-wrappwer">
+<view class="date">
+<view class="date-logo">
+<image src ="/dist/image/wd.png"></image>
+</view>
+<view class="date-text">
+<view class="date-title">温度</view>
+<view class="date-value">15c</view>
+</view>
+</view>
+<view class="date">
+<view class="date-logo">
+<image src ="/dist/image/sd.png"></image>
+</view>
+<view class="date-text">
+<view class="date-title">湿度</view>
+<view class="date-value">0%</view>
+
+</view>
+</view>
+</view>
+</view >
+</view >
+
+
+
+
